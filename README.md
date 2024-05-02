@@ -7,8 +7,8 @@ Samuel Meads
 - [Methods](#methods)
   - [Research Objective](#research-objective)
     - [Null Hypotheses (H<sub>0</sub>):](#null-hypotheses-h0)
-    - [Alternative Hypothesis
-      (H<sub>1</sub>):](#alternative-hypothesis-h1)
+    - [Alternative Hypotheses
+      (H<sub>1</sub>):](#alternative-hypotheses-h1)
   - [Data Analyses](#data-analyses)
     - [Data](#data)
     - [Descriptive Statistics](#descriptive-statistics)
@@ -45,7 +45,6 @@ Samuel Meads
 ![](Pictures/ClimateChange.jpg)
 
 ``` r
-# Import Libraries
 library(tidyverse)
 library(dplyr)
 library(knitr)
@@ -123,7 +122,7 @@ impending rise of global temperatures and sea levels.
 - There is no significant linear relationship between rising sea levels
   and global average temperature.
 
-### Alternative Hypothesis (H<sub>1</sub>):
+### Alternative Hypotheses (H<sub>1</sub>):
 
 - There is a significant linear relationship between CO₂, CH₄, and
   changes in global average temperature.
