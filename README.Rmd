@@ -9,7 +9,6 @@ output:
 
 ![](Pictures/ClimateChange.jpg)
 ```{r, message=FALSE}
-# Import Libraries
 library(tidyverse)
 library(dplyr)
 library(knitr)
@@ -41,7 +40,7 @@ The following research aim's to identify the relationship between particular gre
 
 - There is no significant linear relationship between rising sea levels and global average temperature.
 
-### Alternative Hypothesis (H<sub>1</sub>):
+### Alternative Hypotheses (H<sub>1</sub>):
 - There is a significant linear relationship between CO₂, CH₄, and changes in global average temperature.
 
 - There is a significant linear relationship between rising sea levels and global average temperature. 
